@@ -1,5 +1,5 @@
 {
- TestPlayer1: "XmlFilePath1",
- TestPlayer2: "XmlFilePath2",
- TestPlayer3: "XmlFilePath3"
+ "TestPlayer1": "XmlFilePath1",
+ "TestPlayer2": "XmlFilePath2",
+ "TestPlayer3": "XmlFilePath3"
 }
