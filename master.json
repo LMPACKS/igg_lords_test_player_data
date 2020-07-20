@@ -1,5 +1,5 @@
 {
- "TestPlayer1": "XmlFilePath1",
- "TestPlayer2": "XmlFilePath2",
- "TestPlayer3": "XmlFilePath3"
+ "TestPlayer1": "https://raw.githubusercontent.com/cuilongzhe/igg_lords_test_player_data/master/1.xml",
+ "TestPlayer2": "https://raw.githubusercontent.com/cuilongzhe/igg_lords_test_player_data/master/2.xml",
+ "TestPlayer3": "https://raw.githubusercontent.com/cuilongzhe/igg_lords_test_player_data/master/3.xml"
 }
