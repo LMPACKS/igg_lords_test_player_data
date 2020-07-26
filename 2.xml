@@ -2,7 +2,7 @@
 <map>
     <string name="loginType">GUEST</string>
     <string name="thirdPlatformId"></string>
-    <string name="IGGId">2615332999</string>
+    <string name="IGGId">12-2615332999</string>
     <string name="timetoverify">2020-08-13 05:19:38</string>
     <string name="accesskey">d7708a8069489cb625724e999e034e53</string>
     <boolean name="hasBind" value="false" />
